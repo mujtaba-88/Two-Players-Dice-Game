@@ -1,0 +1,9 @@
+1. Select all elements.
+
+2. Select all score to 0 and hide the dice.
+
+3. Add click event listener that can
+a. Display random number
+2. Now img src tag is used from dice-1 to dice-6 now we need to use template literal and random number 
+variable to show them on screen using src javascript.
+4. Select the score element dynamically based on which is the active player. 
